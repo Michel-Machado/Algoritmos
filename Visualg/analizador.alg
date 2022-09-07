@@ -14,7 +14,7 @@ div5 <- 0
 n <- 0
 par <- 0
 enquanto ( c <= q ) faca
-   escreval ("Digite o ", c, "°", " valor: ")
+   escreval ("Digite o ", c, "ï¿½", " valor: ")
    leia (v)
    c<- (c + 1)
    soma <- soma + v
@@ -29,11 +29,11 @@ enquanto ( c <= q ) faca
    fimse
 fimenquanto
 med <- ( soma / q)
-escrevaL ("A soma dos valores digitados é: ", soma)
-escrevaL("A média dos valores digitados é : ", med:5:2)
-escreval("Números nulos encontrados: ", div5)
-escreval ("Números nulos encontrados: ", n)
-escreval ("Números pares encontrados: ", par)
+escrevaL ("A soma dos valores digitados ï¿½: ", soma)
+escrevaL("A mï¿½dia dos valores digitados ï¿½ : ", med:5:2)
+escreval("Nï¿½meros nulos encontrados: ", div5)
+escreval ("Nï¿½meros nulos encontrados: ", n)
+escreval ("Nï¿½mmeros pares encontrados: ", par)
 
 
 
